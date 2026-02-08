@@ -60,7 +60,7 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer className="footer">
-        👨‍💻 Developed by <span>Harish </span>
+        👨‍💻 Developed by <span>Harish Puhaniya </span>
       </footer>
 
       {/* STYLES */}
