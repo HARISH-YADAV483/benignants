@@ -440,7 +440,7 @@ export default function ReportScam() {
 
 
        <footer className="footer">
-        👨‍💻 Developed by <span>Harish & Tarun (Benignants)</span>
+        👨‍💻 Developed by <span>Harish Puhaniya</span>
       </footer>
     </div>
   );
